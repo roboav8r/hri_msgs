@@ -1,7 +1,7 @@
 # This message contains a list of skeletal keypoints 
 # (0, 0) is at top-left corner of image
 
-Header header        # Header timestamp should be acquisition time of the original image
+std_msgs/Header header        # Header timestamp should be acquisition time of the original image
 
 # skeletal key Points naming
 # Follows OpenPose coco model convention
